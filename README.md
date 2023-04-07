@@ -29,6 +29,11 @@
 
 </div>
 
+<div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banjae&layout=compact"><br><br>
+ <img src="https://github-readme-stats.vercel.app/api?username=Banjae&show_icons=true">
+</div>
+
 <div align=center><h3> COUNT </h3></div>
 
 <div align=center>
